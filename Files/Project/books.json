@@ -1,0 +1,17 @@
+[
+  {
+    "name": "python",
+    "author": "suraj",
+    "read": true
+  },
+  {
+    "name": "javascipt",
+    "author": "suraj",
+    "read": false
+  },
+  {
+    "name": "Steve Jobs",
+    "author": "Suraj Karki",
+    "read": false
+  }
+]
