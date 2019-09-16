@@ -1,4 +1,6 @@
-#!/home/surajkarki/Desktop/Python/env/bin/python3.7
+#!/bin/sh
+'''exec' "/home/surajkarki/Desktop/Object Oriented Programming in Python/env/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
